@@ -1,3 +1,6 @@
 From local repo to Remote Repo
 hlo from github through Fetch.
 hlo from github through PULL.
+
+Changes made after pulling and
+again pushing to remote repo
